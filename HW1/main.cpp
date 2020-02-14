@@ -1,4 +1,4 @@
-//1
+//3 sections 3 lights
 
 #include "mbed.h"
 #include "stm32f413h_discovery.h"
@@ -77,7 +77,7 @@ int main()
 
 
 
-//2
+//3 seconds lights
 
 // #include "mbed.h"
 
